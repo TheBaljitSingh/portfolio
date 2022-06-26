@@ -5,6 +5,18 @@
 
 /* Selector ke bare me aache se padh lo
 */
+.footer1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: fixed;
+    z-index: 9999;
+    bottom: 10px;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+    background-color: #2dbc3e;
+    border-radius: 3px;
+}
+
 *{
 
     margin: 0px;
@@ -155,7 +167,7 @@ html{
     display: flex;
     background-size: cover;
     background-attachment: fixed;
-    background-image:url(../Website/banner.jpg);
+    background-image:url("/gallery/banner.jpg");
     background-color: black;
     background-repeat: no-repeat;
     background-position: center;
@@ -216,6 +228,10 @@ section a:hover{
     background: none;
 }
 
+/* a .sidtalk{
+    color: #e34005;
+
+} */
 
 /* all similar content styling code */
 section{
@@ -645,19 +661,6 @@ footer span a:hover{
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* responsive media query start */
 
 
@@ -695,19 +698,17 @@ footer span a:hover{
         display: block;
         z-index: 999;
     }
-     /* .navbar i.active:before{
+    .navbar i.fa-bars.active:before{
         content: "\f00d";
-    }  */
-      
-     .navbar:before {
-        content: "\f000"; /*--You can add font icon code here--*/
-         font-family: FontAwesome;
     } 
-    
-    
-    .navbar:active .fa-bars:before{
+      
+    /*
+    .navbar:active i.fa-bars:after{
         content: "\f00d";
-      } 
+        
+    } 
+    */
+   
 
     
     .navbar .menu{
