@@ -5,17 +5,6 @@
 
 /* Selector ke bare me aache se padh lo
 */
-.footer1{
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    position: fixed;
-    z-index: 9999;
-    bottom: 10px;
-    padding: 20px;
-    color: #fff;
-    text-align: center;
-    background-color: #2dbc3e;
-    border-radius: 3px;
-}
 
 *{
 
