@@ -167,7 +167,7 @@ html{
     display: flex;
     background-size: cover;
     background-attachment: fixed;
-    background-image:url("/gallery/banner.jpg");
+    background-image:url("./gallery/banner.jpg");
     background-color: black;
     background-repeat: no-repeat;
     background-position: center;
