@@ -13,3 +13,5 @@ This is my portfolio website. Here you will learn about me and my information. T
 Check out the website: https://thebaljitsingh.github.io/portfolio/
 
 # Tools Used
+- VS Code
+- YouTube
