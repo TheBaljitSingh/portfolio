@@ -42,7 +42,7 @@ html{
 .navbar.sticky{
     padding: 15px, 0;
 
-    background: crimson;
+    background: 301E67;
 
 
 }
@@ -75,7 +75,7 @@ html{
  .navbar .logo a span{
 
      /* color: rgb(50, 4, 14); */
-     color: crimson;
+     color: 301E67;
      transition: all 0.3s ease;
  }
 
@@ -104,7 +104,7 @@ html{
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: crimson;
+    color: 301E67;
 
 }
 .navbar.sticky .menu li a:hover{
@@ -128,7 +128,7 @@ html{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: crimson;
+    background: 301E67;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -195,25 +195,25 @@ html{
 
 }
 .home  .text-3 span{
-    color: crimson;
+    color: 301E67;
     font-weight: 500;
 } 
 /*   */
 section a{
     display: inline-block;
-    background:crimson ;
+    background:301E67 ;
     color: #fff;
     font-size: 25px;
     padding: 12px 32px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid crimson;
+    border: 2px solid 301E67;
     transition: all 0.3s ease;
     
 }
 /* in video tha name is( .home .home-content a:hover ) */
 section a:hover{    
-    color: crimson;
+    color: 301E67;
     background: none;
 }
 
@@ -265,7 +265,7 @@ section .title::after{
     bottom: -12px;
     left: 50%;
     font-size: 20px;
-    color: crimson;
+    color: 301E67;
     padding: 5px;
     background: #fff;
     transform:translateX(-50%)
@@ -301,7 +301,7 @@ section .title::after{
     margin-bottom: 10px;
 }
 .about .about-content .right .text span{
-    color:crimson
+    color:301E67
 
 }
 .about .about-content .right p{
@@ -310,18 +310,18 @@ section .title::after{
 }
 .about .about-content .right a{
 display: inline-block;
-background:crimson ;
+background:301E67 ;
 color: #fff;
 font-size: 20px;
 font-weight: 500;
 padding: 10px 30px;
 margin-top: 20px;
 border-radius: 6px;
-border: 2px solid crimson;
+border: 2px solid 301E67;
 transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: crimson;
+    color: 301E67;
     background: none;
     transition: all 0.3s ease;
 }
@@ -368,7 +368,7 @@ transition: all 0.3s ease;
     transition: all 0.3s ease;
  }
  .services .card:hover{
-    color: crimson;
+    color: 301E67;
 }
  .services .card:hover .box{
     transform: scale(1.05);   /* learn scalling */
@@ -376,7 +376,7 @@ transition: all 0.3s ease;
  
 .services .card i{
     font-size: 50px;
-    color: crimson;
+    color: 301E67;
     transition: color 0.3s ease;
 
 }
@@ -407,19 +407,19 @@ transition: all 0.3s ease;
 }
 .skills .skills-content .left a{
     display: inline-block;
-background:crimson ;
+background:301E67 ;
 color: #fff;
 font-size: 18px;
 font-weight: 500;
 padding: 8px 16px;
 margin-top: 20px;
 border-radius: 6px;
-border: 2px solid crimson;
+border: 2px solid 301E67;
 transition: all 0.3s ease
 
 }
 .skills .skills-content .left a:hover{
-    color: crimson;
+    color: 301E67;
     background:none;
 }
 .skills .skills-content .right .bars{
@@ -447,7 +447,7 @@ transition: all 0.3s ease
     position: absolute;
     height: 100%;
     top: 0;
-    background: crimson;
+    background: 301E67;
     
 }
 .skills-content .right .html::before{
@@ -481,7 +481,7 @@ transition: all 0.3s ease
 
 }
 .teams .carousel .card:hover{
-    background: crimson;
+    background: 301E67;
 }
 .teams .carousel .card .box{
     display: flex;
@@ -505,7 +505,7 @@ transition: all 0.3s ease
     width:150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 5px solid crimson;
+    border: 5px solid 301E67;
     transition: all 0.3s ease;
 }
 
@@ -522,7 +522,7 @@ transition: all 0.3s ease
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid crimson!important;
+    border: 2px solid 301E67!important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -531,7 +531,7 @@ transition: all 0.3s ease
 }
 .owl-dot.active,
 .owl-dot:hover{
-    background: crimson!important;
+    background: 301E67!important;
 }
 
 /* contact section styling */
@@ -562,7 +562,7 @@ transition: all 0.3s ease
 }
 .contact .contact-content .row i{
     font-size: 25px;
-    color: crimson;
+    color: 301E67;
 
 }
 .contact .contact-content .info .head{
@@ -618,8 +618,8 @@ transition: all 0.3s ease
 .contact .right form .button button{
     width: 100%;
     height: 100%;
-    border: 2px solid crimson;
-    background: crimson;
+    border: 2px solid 301E67;
+    background: 301E67;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -629,7 +629,7 @@ transition: all 0.3s ease
 
 }
 .contact .right form .button button:hover{
-    color: crimson;
+    color: 301E67;
     background: none;
 }
 
@@ -642,7 +642,7 @@ footer{
     color: #fff;
 }
 footer span a{
-    color: crimson;
+    color: 301E67;
     text-decoration: none;
 }
 footer span a:hover{
