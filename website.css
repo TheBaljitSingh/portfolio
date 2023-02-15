@@ -157,7 +157,7 @@ html{
     background-size: cover;
     background-attachment: fixed;
     background-image:url("./gallery/banner.jpg");
-    background-color: black;
+    background-color: #5B8FB9;
     background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
@@ -256,7 +256,7 @@ section .title::before{
     left: 50%;
     width: 180px;
     height: 3px;
-    background: #111;
+    background: #5B8FB9;
     transform:translateX(-50%)
 }
 
@@ -337,7 +337,7 @@ transition: all 0.3s ease;
 
  .services, .teams{
     color: #fff;
-    background-color: #111;
+    background-color: #5B8FB9;
  }
  .services .title::before,
  .teams .title::before{
@@ -347,7 +347,7 @@ transition: all 0.3s ease;
  .services .title::after,
  .teams .title::after{
     
-    background: #111;
+    background: #5B8FB9;
     content:"What i provide";
  }
  .services .card{
@@ -637,7 +637,7 @@ transition: all 0.3s ease
 
 /* footer section starting */
 footer{
-    background: #111;
+    background: #5B8FB9;
     padding: 20px 23px;
     color: #fff;
 }
@@ -706,7 +706,7 @@ footer span a:hover{
         width: 100%;
         left: -100%; 
         top: 0;          
-        background: #111;
+        background: #5B8FB9;
         text-align: center;
         padding-top: 80px;
         transition:all 0.3s ease;
