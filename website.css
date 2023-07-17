@@ -540,6 +540,7 @@ transition: all 0.3s ease
 }
 .contact .contact-content .column{
     width:calc(50% - 30px);
+    flex:1;
 }
 .contact .contact-content .text{
     font-size: 20px;
